@@ -1,4 +1,4 @@
-# Ultimate Football Quiz 2022
+# Football Quiz 2022
 
 A simple Python-based quiz application that demonstrates modular programming, input validation, console interaction, and basic data structures. This project showcases skills useful for Python development, including function decomposition, global variable management, and user interaction in the terminal.
 
@@ -10,8 +10,6 @@ A simple Python-based quiz application that demonstrates modular programming, in
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies & Concepts Demonstrated](#technologies--concepts-demonstrated)
-- [License](#license)
 
 ---
 
