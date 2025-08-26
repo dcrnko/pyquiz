@@ -35,13 +35,14 @@ The Ultimate Football Quiz 2022 allows multiple players to register and answer f
 ---
 
 ## Project Structure
----
+
+ultimate-football-quiz/
+├── quiz.py # Main entry point to run the quiz
 ├── clear_function.py # Clears the console across operating systems
 ├── sleep_function.py # Contains delay functions (1s and 2s)
-├── message.py # Displays welcome and start messages
-├── player_addition.py # Handles player registration logic
-├── questioning.py # Contains questions, answers, scoring, and winner determination
-└── quiz.py # Main entry point to run the quiz
+├── message.py # Displays welcome and starting messages
+├── player_addition.py # Handles player registration and input validation
+└── questioning.py # Contains quiz questions, answers, scoring, and winner determination
 
 ---
 
