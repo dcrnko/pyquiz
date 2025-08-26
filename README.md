@@ -31,7 +31,28 @@ The Ultimate Football Quiz 2022 allows multiple players to register and answer f
 - Interactive terminal interface with feedback for correct/incorrect answers.
 - Scoreboard and winner determination.
 
+
 ---
 
 ## Project Structure
+.
+├── clear_function.py # Clear the terminal screen across OS
+├── sleep_function.py # Contains delay functions (1s and 2s)
+├── message.py # Welcome and start messages
+├── player_addition.py # Handles player registration
+├── questioning.py # Contains questions, answers, scoring, and winner logic
+└── quiz.py # Main entry point to run the quiz
 
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ultimate-football-quiz.git
+   cd ultimate-football-quiz
+Ensure you have Python 3.x installed.
+
+Run the quiz:
+
+python quiz.py
